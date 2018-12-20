@@ -1,6 +1,6 @@
-# vue-cli
+# Quote Adder
 
-> A Vue.js project
+> A Vue.js project that shows how props and listeners can be used to pass data between components from the parent
 
 ## Build Setup
 
